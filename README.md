@@ -11,14 +11,18 @@
 </ul>
 
 ### Connect with Me
-<a href='https://www.linkedin.com/in/aniket-kr-2002/'>
+<a href='https://www.linkedin.com/in/aniket-kr-2002/' title='LinkedIn'>
   <img src='https://img.shields.io/badge/aniket--kr--2002-blue?style=for-the-badge&logo=linkedin'>
 </a>
 &nbsp;
-<a href='https://twitter.com/_aniketkr_'>
+<a href='https://twitter.com/_aniketkr_' title='Twitter'>
   <img src='https://img.shields.io/badge/@__aniketkr__-009AF3?style=for-the-badge&logo=twitter&logoColor=white'>
 </a>
 <a href='href://'>
+&nbsp;
+<a href='https://www.codechef.com/users/kr_aniket' title='Codechef Profile'>
+  <img src='https://img.shields.io/badge/kr__aniket-666666?style=for-the-badge&logo=data:image/vnd.microsoft.icon;base64,AAABAAEAEBAAAAEAGABoAwAAFgAAACgAAAAQAAAAIAAAAAEAGAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAC7yt2aq76Xp76TpbySpr+Spr+RpsGOo76QpcCPpL+Tp8CXqcCRorebqr2cqrzAzuCgscZDVWxDV3BIXHVCV3JFWnVDWHRCWHRFW3dAVXBFWnVHW3RKXHNIWW5LWW+cq76Nor1GW3ZKYHw8Um49U289VXE/V3VGXnxAWHZAVnI6UGxFW3c9Um1FW3RFWXKUqMGQo75HXHdBVnE+U25NYn0/VG89Um0+U25AVXBFWnU+U25HXHdFWXJBVW5HW3SRpryYprxLWm1PXnFDUmVNW21baXtkcoRQXnBNW21JV2lYZnhOXG5ebH5RX3FOXG6err+aqbxJWGtMWmxda32ruMjp9v/n9P/T3ux4g5FlcH62wc/v/P/v/P/K1+dkcoSUorSWqsNJW3JMXXKouc7s+//P3e/C0OLj8P+YpbXL2Ojt+v/L2eu3xtnf7v+HmK2Yqb6QpcBHXXZLXHbb7v/p9/9ebYBNW21hb4Fpdobr+P/Y5vhUZHVWZHpeb4RHWXCXqcCTqMNCWHFWZ4Ho+//O3PJMW25OXG5OW2t1gpLt+v+zwdNTY3RKWG5IWW5JW3KTpbycrcdHWXBNXnPV5vvs+/9wfpBRXm6DkJ5rdYbv/P/o9f9aaHpSYHJ/jqFWZHqYqb6UorVLWWtOXG6UorTj8P/t+P/h7Prl8f2stcOnssDt+P/o8//l8P7u+/+Kl6ebqLigrsFKWWxLWm1XZnmLmavL2evY5fW4xdVjcIBWY3Oir7/U4fHL2Oims8NgbX2Yp7eSo71EWHFEWHFAVG1FWXJJXXZJXXZGWnNEWHFMYHlHWXBDVWxSY3hSY3hGV2yarcKPo7xMYHlGWXREWXRFWnU/VG8+U25AV3FBVnI+U24/VG9FWXJFV25GWG9GWG+SpLubqr1MXXBBUmdHWXBGWG9KXndJXXZHXXZIW3ZIXHVJW3JKW3BLWm1NXG9OXG6cqrzAzuCWpLaaqbyZqr2To7qYqsGMoLmTp8CSpr+QpbuSormXqLuXpbicqryap7fCz98AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'
+</a>
 
 
 ### Languages
