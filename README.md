@@ -11,8 +11,8 @@
 </ul>
 
 ### Connect with Me
-<a href='https://www.linkedin.com/in/aniket-kr-2002/' title='LinkedIn'>
-  <img src='https://img.shields.io/badge/aniket--kr--2002-blue?style=for-the-badge&logo=linkedin'>
+<a href='https://www.linkedin.com/in/aniket-kumarr/' title='LinkedIn'>
+  <img src='https://img.shields.io/badge/aniket--kumarr-blue?style=for-the-badge&logo=linkedin'>
 </a>
 &nbsp;
 <a href='https://twitter.com/_aniketkr_' title='Twitter'>
